@@ -27,21 +27,27 @@
     <ItemGroup>
       <None Update="1.txt">
         <DependentUpon>VerticalShiftShould.cs</DependentUpon>
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
       <None Update="2.txt">
         <DependentUpon>VerticalShiftShould.cs</DependentUpon>
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
       <None Update="3.txt">
         <DependentUpon>VerticalShiftShould.cs</DependentUpon>
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
       <None Update="4.txt">
         <DependentUpon>VerticalShiftShould.cs</DependentUpon>
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
       <None Update="5.txt">
         <DependentUpon>VerticalShiftShould.cs</DependentUpon>
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
       <None Update="6.txt">
         <DependentUpon>VerticalShiftShould.cs</DependentUpon>
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </None>
     </ItemGroup>
 
